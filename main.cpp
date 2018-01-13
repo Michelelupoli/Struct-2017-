@@ -70,7 +70,7 @@ int main ()
 						s = s + v[i].stip;
 					}
 					m = s / n;
-					cout<<"La media degli stipendi dei dipendenti è pari a " << m <<" euro";
+					cout<<"La media degli stipendi dei dipendenti Ã¨ pari a " << m <<" euro";
 	}
 						cout<<"Vuoi eseguire un altra operazione? (1 = si / 0 = no) ";
 						cin>> opz; cout << endl;
